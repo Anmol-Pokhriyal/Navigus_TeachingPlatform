@@ -1,0 +1,90 @@
+body {
+  margin: 2rem 3rem;
+  background-color: #CCF2F4;
+}
+
+#navi {
+  border-radius: 100%;
+}
+
+.navbar-brand {
+  color: #407088;
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: bold;
+  padding-left: 1rem;
+}
+
+.top {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  color: #2D4263;
+  font-size: 2rem;
+  padding: 3%;
+}
+#top{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  color: #2D4263;
+  font-size: 2rem;
+  margin-left: 3rem;
+
+}
+
+h3 {
+  font-family: "Montserrat-black", sans-serif;
+  text-align: center;
+  font-size: 200%;
+}
+
+a {
+  color: #94B3FD;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.row {
+  display: flex;
+}
+
+.white {
+  background-color: #A4EBF3;
+  text-align: center;
+  padding: 7% 10%;
+}
+
+.tt {
+  text-align: center;
+  padding: 5%;
+  margin-left: 7rem;
+}
+.tt:hover{
+  color: #EC4646;
+  font-size:120%;
+}
+
+.teacher {
+  border-radius: 100%;
+}
+
+.student {
+  border-radius: 100%;
+}
+
+.bottom-container {
+  padding: 2rem;
+  text-align: center;
+}
+.footer-link{
+  color: #336D88;
+}
+.footer-link:hover{
+  font-size: 120%;
+  color: #F94892;
+}
+#copyright {
+  font-family: "Montserrat-black", sans-serif;
+  color: grey;
+}
